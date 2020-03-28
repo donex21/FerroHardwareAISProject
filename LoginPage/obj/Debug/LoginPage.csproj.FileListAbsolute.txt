@@ -1,0 +1,84 @@
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Form1.resources
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Home_Page.resources
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Dashboard.resources
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Users.resources
+C:\donilfiles\AIS\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Supplier.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Dashboard.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Form1.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Home_Page.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Supplier.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Users.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Products.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Purchase.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.POS.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Inventory.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.MOQItems.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.Request.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.SalesReport.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.ViewImage.resources
+C:\Users\Donil Ponce\Desktop\FerroPOS\LoginPage\LoginPage\obj\Debug\LoginPage.StockCard.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Dashboard.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Form1.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Home_Page.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Inventory.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.MOQItems.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.POS.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Products.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Purchase.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Request.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.SalesReport.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.StockCard.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Supplier.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Users.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.ViewImage.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.View_Items_Sold.resources
+C:\Users\Leofer\Desktop\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.View_Purcahse_Items.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Dashboard.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Form1.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Home_Page.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Inventory.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.MOQItems.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.POS.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Products.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Purchase.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Request.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.SalesReport.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.StockCard.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Supplier.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Users.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.ViewImage.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.View_Items_Sold.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.View_Purcahse_Items.resources
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\acer\Desktop\FerroPOSVersion 1\FerroPOSVersion 1\LoginPage\LoginPage\obj\Debug\LoginPage.Splash.resources
